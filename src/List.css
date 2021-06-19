@@ -1,0 +1,11 @@
+.list {
+  color: black;
+  width: 300px;
+  margin: 20px auto;
+  height: 50px;
+  background-color: azure;
+  border-radius: 4px;
+}
+.list p {
+  padding: 10px;
+}
